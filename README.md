@@ -11,8 +11,8 @@ It provides a simple yet effective solution for managing images locally on mobil
 
 
 ## Demo
+https://github.com/harshalmm143/upload-image-expo-sqlite/assets/102899317/f694a2fb-982d-4215-9261-53714e9d3fcd
 
-https://github.com/harshalmm143/upload-image-expo-sqlite/assets/102899317/9f2afdd8-1bac-4411-8ab9-fe81773661dc
 
 
 
